@@ -8,13 +8,13 @@ public class ahkiraFunction {
 
 // --1. THE INPUT (Storing your personal details in variables)
 
-        String myName = "Maria";
+        String myName = "Ahkira";
 
-        String petName = "Bantay";
+        String petName = "Kuting";
 
-        String favFood = "Sinigang";
+        String favFood = "Adobo";
 
-        int myAge = 16;
+        int myAge = 17;
 
 // --- 2. THE OUTPUT (Printing to the console)
 
